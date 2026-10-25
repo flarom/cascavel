@@ -1,9 +1,11 @@
-<center>
-<img src="assets/logo.svg" alt="Cascavel logo" width="128" height="128"/>
+<table><tr><td>
+
+![Cascavel](assets/logo.svg)
+</td><td>
 
 # Cascavel
 A Snake clone made using GNOME technologies.
-</center>
+</td></tr></table>
 
 ## Features
 
