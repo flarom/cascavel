@@ -1,17 +1,9 @@
-<table>
-<tr>
-<td>
+<center>
 <img src="assets/logo.svg" alt="Cascavel logo" width="128" height="128"/>
-</td>
-<td>
 
 # Cascavel
 A Snake clone made using GNOME technologies.
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
+</center>
 
 ## Features
 
@@ -20,7 +12,3 @@ A Snake clone made using GNOME technologies.
 - Adjustable game speed.
 - Randomly generated walls obstacles.
 - Gesture controls.
-
-</td>
-</tr>
-</table>
